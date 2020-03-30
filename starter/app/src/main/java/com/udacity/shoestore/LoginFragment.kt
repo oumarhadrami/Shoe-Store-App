@@ -9,9 +9,7 @@ import androidx.databinding.DataBindingUtil
 import androidx.navigation.findNavController
 import com.udacity.shoestore.databinding.FragmentLoginBinding
 
-/**
- * A simple [Fragment] subclass.
- */
+
 class LoginFragment : Fragment() {
 
     private lateinit var binding: FragmentLoginBinding
